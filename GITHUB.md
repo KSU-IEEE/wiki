@@ -21,6 +21,10 @@ If you are using the GUI, follow the instructions [here](https://www.attosol.com
 
 **NAME YOUR BRANCH CORRECTLY**.  The naming system we will be following is the following: `<the number of your issue>-<the name of your issue>`. For the name of your issue, use '-' for spaces. For example. I opened issue number 2 title "Your Issue Name". So when I branch, I will run `git branch 2-Your-Issue-Name` if I wanted to work on that branch.  
 
+## Commiting code  
+1.) **commit often**. This helps in improving the readability of your code.
+2.) **have indepth commit message**. This also helps in readability. The message `squashed a bug` doens't tell me alot about what you did. Rather, if you commit `add class outline--not compiled yet`. I know what you did, and that your code doesn't work
+
 ## Commenting on your issue  
 To keep better information on our code, we will be adding comments on our issues. Because the branches correspond to the issue, we will have an easier time following the code.   
 ![](images/github/7_8.png)  
@@ -30,4 +34,8 @@ When you've commented, you'll see this:
 ![](images/github/comments.png)  
 This shows a clear timeline of the work you will be doing. Comment often to ensure readability.  
 
-## Merging into master
+## Merging into master  
+Once you finish your feature, you will merge your branch into master. To do this hit the `open merge request` box on the main page of the the repository !()[imagers/github/pull]  
+Then you will see this screen:
+![](images/github/9_10_11_12.png)  
+This will alert me that you are ready to merge into master. When The I approve your code, I will accept the merge request, close out your issue, and delete your branch. You can still see the old issues, however this keeps the issues clean.  
