@@ -22,7 +22,7 @@ If you are using the GUI, follow the instructions [here](https://www.attosol.com
 **NAME YOUR BRANCH CORRECTLY**.  The naming system we will be following is the following: `<the number of your issue>-<the name of your issue>`. For the name of your issue, use '-' for spaces. For example. I opened issue number 2 title "Your Issue Name". So when I branch, I will run `git branch 2-Your-Issue-Name` if I wanted to work on that branch.  
 
 ## Commiting code  
-1.) **commit often**. This helps in improving the readability of your code.
+1.) **commit often**. This helps in improving the readability of your code.  
 2.) **have indepth commit message**. This also helps in readability. The message `squashed a bug` doens't tell me alot about what you did. Rather, if you commit `add class outline--not compiled yet`. I know what you did, and that your code doesn't work
 
 ## Commenting on your issue  
