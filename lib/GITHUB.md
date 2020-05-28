@@ -3,10 +3,10 @@ This page holds the information on how to operate on Github. In the past we've b
 # Issues and Branching 
 ## Creating an Issue  
 We are going to start with how to open an issue. We will be using issues to better track who is in charge of a task. When opening an issue, follow these steps:   
-![](images/github/1_2.png)  
+![](/images/github/1_2.png)  
 In this picture, we see the issue screen. To open any new issue, hit the new issue button--number 1.  
 
-![](images/github/3_4_5_6.png)  
+![](/images/github/3_4_5_6.png)  
 In this picture, you see the screen you will see when you make a new issue. Follow the numbers, by first adding a title, then the description. This usually helps you organize your thoughts betters  
 Then Assign this to yourself and anybody else that will be helping you on it.  
 Finally submit the issue.  
@@ -27,15 +27,15 @@ If you are using the GUI, follow the instructions [here](https://www.attosol.com
 
 ## Commenting on your issue  
 To keep better information on our code, we will be adding comments on our issues as we write code. Because the branches correspond to the issue, we will have an easier time following the code.   
-![](images/github/7_8.png)  
+![](/images/github/7_8.png)  
 Above shows a comment box, you will want to add in depth descriptions a long the way of writing, be sure to hit comment at the end!  
 
 When you've commented, you'll see this:  
-![](images/github/comments.png)  
+![](/images/github/comments.png)  
 This shows a clear timeline of the work you will be doing. Comment often to ensure readability.  
 
 ## Merging into master  
 Once you finish your feature, you will merge your branch into master. To do this hit the `open merge request` box on the main page of the the repository !()[imagers/github/pull]  
 Then you will see this screen:
-![](images/github/9_10_11_12.png)  
+![](/images/github/9_10_11_12.png)  
 This will alert me that you are ready to merge into master. When I approve your code, I will accept the merge request, close out your issue, and delete your branch. You can still see the old issues, however this keeps the issues clean.  
