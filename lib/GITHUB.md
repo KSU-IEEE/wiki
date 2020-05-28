@@ -3,7 +3,7 @@ This page holds the information on how to operate on Github. In the past we've b
 # Issues and Branching 
 ## Creating an Issue  
 We are going to start with how to open an issue. We will be using issues to better track who is in charge of a task. When opening an issue, follow these steps:   
-![1_2](/images/github/1_2.png?raw=true)  
+![](/images/github/1_2.png)  
 In this picture, we see the issue screen. To open any new issue, hit the new issue button--number 1.  
 
 ![](images/github/3_4_5_6.png?raw=true)  
